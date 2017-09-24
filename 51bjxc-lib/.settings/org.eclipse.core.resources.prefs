@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/bjxc/utils/DateUtils.java=UTF-8
+encoding//src/main/java/com/bjxc/utils/encide/BaseDigestPasswordEncoder.java=UTF8
+encoding//src/main/java/com/bjxc/utils/encide/BasePasswordEncoder.java=UTF8
+encoding//src/main/java/com/bjxc/utils/encide/CyptoUtils.java=GBK
+encoding//src/main/java/com/bjxc/utils/encide/EncryptUtil.java=UTF8
+encoding//src/main/java/com/bjxc/utils/encide/Md5PasswordEncoder.java=UTF8
+encoding//src/main/java/com/bjxc/utils/encide/MessageDigestPasswordEncoder.java=UTF8
+encoding//src/main/java/com/bjxc/utils/encide/PasswordEncoder.java=UTF8
+encoding//src/main/java/com/bjxc/web/BjxcRestfulInterceptor.java=UTF-8
